@@ -154,6 +154,7 @@ int main(void)
     // Cleanup
     for (int i = 0; i < number_of_vertices; i++) {
         free(matrix[i]);
+        free(names[i]);
     }
     free(matrix);
     return 0;
