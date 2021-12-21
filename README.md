@@ -1,4 +1,4 @@
-# dijkstra
+# Dijkstra's Algorithm
 An old implementation of Dijkstra's algorithm
 
 
